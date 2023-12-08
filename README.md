@@ -30,3 +30,4 @@ THEN I find a concise, descriptive title
 
 * added alt descrtiptions to images and icons used on the file.
 
+* tried to condense down CSS as best as I could.
