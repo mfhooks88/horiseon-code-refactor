@@ -31,3 +31,5 @@ THEN I find a concise, descriptive title
 * added alt descrtiptions to images and icons used on the file.
 
 * tried to condense down CSS as best as I could.
+
+* starter code was provided by bootcamp and updates were made by me using what I learned in class.
