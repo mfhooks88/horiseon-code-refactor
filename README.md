@@ -33,3 +33,7 @@ THEN I find a concise, descriptive title
 * tried to condense down CSS as best as I could.
 
 * starter code was provided by bootcamp and updates were made by me using what I learned in class.
+
+* <img width="961" alt="Screenshot 2023-12-20 at 2 13 32 PM" src="https://github.com/mfhooks88/horiseon-code-refactor/assets/152635274/60c1cfc8-7e76-4d7a-be87-db9daaa45188">
+
+* https://mfhooks88.github.io/horiseon-code-refactor/ 
